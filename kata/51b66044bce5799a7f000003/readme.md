@@ -1,6 +1,6 @@
 https://www.codewars.com/kata/51b66044bce5799a7f000003
 
-## Roman Numerals Helper</h2>
+# Roman Numerals Helper
 
 Write two functions that convert a roman numeral to and from an integer value. Multiple roman numeral values will be tested for each function.
 
@@ -10,7 +10,7 @@ Input range : `1 <= n < 4000`
 
 In this kata `4` should be represented as `IV`, NOT as `IIII` (the "watchmaker's four").
 
-Examples
+## Examples
 
 ```sh
 to roman:
